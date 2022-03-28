@@ -3,7 +3,7 @@
 <img src="screen shot from app/1.jpg" alt="1" height="300"/> <img src="screen shot from app/2.jpg" alt="2" height="300"/> <img src="screen shot from app/3.jpg" alt="3" height="300"/> <img src="screen shot from app/4.jpg" alt="4" height="300"/> <img src="screen shot from app/5.jpg" alt="5" height="300"/> <img src="screen shot from app/6.jpg" alt="6" height="300"/> 
 
 ## Installation
-go to [quran for android folder](https://github.com/mano1997max/qurank_hyatek_app/tree/master/quran%20for%20android) to download quran.apk
+go to <a href="https://github.com/mano1997max/qurank_hyatek_app/tree/master/quran%20for%20android">quran for android</a> to download quran.apk
 
 ## app video
 [app video on youtube]( https://www.youtube.com/watch?v=_IPue2DU7cA) 
